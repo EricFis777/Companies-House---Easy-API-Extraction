@@ -3,7 +3,7 @@ Python tool for quick, reliable extraction of company and director data from the
 
 This tool can be tailored to the client's specific requirements in no time at all. You can find me on Upwork https://www.upwork.com/freelancers/ericfisher?mp_source=share
 
-Or contact me direct :)
+Or contact me direct :)  efish707@gmail.com
 
 
 # 🕊 Companies House – Easy API Extraction
